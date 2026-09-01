@@ -1,0 +1,6 @@
+{
+	name : 'ae3.pkg.lib.jfreechart',
+	title : 'AE3 Library Wrapper: JFreeChart charting library',
+	provides : 'jfreechart',
+	requires : 'java'
+}

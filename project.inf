@@ -1,0 +1,7 @@
+Name: lib.jfree-jfreechart
+Provides: \
+	lib.jfree-jfreechart \
+	ae3.pkg.lib.jfreechart \
+	--source-process:compile-java \
+	source-process:ae3-packages \
+
